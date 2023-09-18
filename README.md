@@ -2,8 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 <!-- in your body -->
-<i class="devicon-devicon-plain"></i>
-# ¡Hola, soy Jose! <i class="fa-solid fa-laptop-code"></i>
+# ¡Hola, soy Jose!
 
 ____
 
@@ -24,5 +23,6 @@ ____
 </p>
 
 ____
+
 
 
