@@ -1,4 +1,8 @@
-<link rel="stylesheet" href="devicon.min.css">
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-devicon-plain"></i>
 # ¡Hola, soy Jose! <i class="fa-solid fa-laptop-code"></i>
 
 ### Sobre mí
@@ -8,5 +12,6 @@ Soy un apasionado desarrollador Android junior en busca de nuevas oportunidades 
 -Afianzar e investigar principos, patrones de diseño, principios SOLID y buenas prácticas
 
 ### Lenguajes de programación:
-<i class="fa-brands fa-java"></i>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg'>
 
