@@ -23,5 +23,13 @@ ____
 
 ____
 
+### Herramientas
+<p align="left">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' alt="java" width="65" height="65">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt="kotlin" width="65" height="65">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg' alt="java" width="65" height="65">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg' alt="kotlin" width="65" height="65">
+</p>
+
 
 
