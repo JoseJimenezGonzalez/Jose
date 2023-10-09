@@ -19,6 +19,7 @@ ____
 <p align="left">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt="java" width="65" height="65">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' alt="kotlin" width="65" height="65">
+    <img src='https://banner2.cleanpng.com/20180320/qwq/kisspng-oracle-sql-developer-oracle-database-pl-sql-oracle-vector-sql-server-icon-5ab0cd69bc5833.9561526915215363617715.jpg' alt="pl/sql" width="65" height="65">
 </p>
 
 ____
