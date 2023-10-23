@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 <!-- in your body -->
-# ¡Hola, soy Jose!
+# ¡Hello world! :wave: Soy Jose
 
 
 ### Sobre mí
