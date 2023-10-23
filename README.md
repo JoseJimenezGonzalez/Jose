@@ -9,14 +9,14 @@ I'm a student of DAM in Escuela Arte Granada who is mainly interested in mobile 
 * I hold multiple Udemy courses in Kotlin, design patterns and Android development.
 ## :hammer: Languajes and Tools:
 <p align = "left">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt="java" width="35" height="35">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' alt="kotlin" width="35" height="35">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg' alt="kotlin" width="35" height="35">
-  <img src='https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png' alt="pl/sql" width="35" height="35">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' alt="java" width="35" height="35">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt="kotlin" width="35" height="35">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg' alt="java" width="35" height="35">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg' alt="kotlin" width="35" height="35">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt="java" width="25" height="25">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' alt="kotlin" width="25" height="25">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg' alt="kotlin" width="25" height="25">
+  <img src='https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png' alt="pl/sql" width="25" height="25">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' alt="java" width="25" height="25">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt="kotlin" width="25" height="25">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg' alt="java" width="25" height="25">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg' alt="kotlin" width="25" height="25">
 </p>
 
 
