@@ -18,7 +18,7 @@ ____
 ### Lenguajes de programación:
 <p align="left">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt="java" width="35" height="35">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' alt="kotlin" width="35" height="35">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg' alt="kotlin" width="35" height="35">
     <img src='https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png' alt="pl/sql" width="35" height="35">
 </p>
 
