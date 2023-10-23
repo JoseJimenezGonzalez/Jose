@@ -2,7 +2,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 <!-- in your body -->
-## ¡Hello world! :wave: I'm Jose :hurtrealbad:
+## ![Banner de mi perfil](https://static.vecteezy.com/system/resources/previews/005/266/448/non_2x/retro-futuristic-background-free-vector.jpg)
+¡Hello world! :wave: I'm Jose :hurtrealbad:
+
+¡Bienvenido a mi perfil de GitHub! Aquí encontrarás información sobre mis proyectos y contribuciones.
 I'm a student of DAM in Escuela Arte Granada who is mainly interested in mobile :iphone: and backend development. 
 * I am learning design patterns, SOLID principles, and good programming practices.
 * I'm looking for a new job opportunity .
