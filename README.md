@@ -2,13 +2,13 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 <!-- in your body -->
-## ¡Hello world! :wave: I'm Jose :hurtrealbad:
-¡Bienvenido a mi perfil de GitHub! Aquí encontrarás información sobre mis proyectos y contribuciones.
-I'm a student of DAM in Escuela Arte Granada who is mainly interested in mobile :iphone: and backend development. 
+## Hello world! :wave: I'm Jose :hurtrealbad:
+Welcome to my GitHub profile! Here you'll find information about my projects.
+I'm a student of developing cross-platform applications in Escuela Arte Granada who is mainly interested in mobile :iphone: and backend development. 
 * I am learning design patterns, SOLID principles, and good programming practices.
-* I'm looking for a new job opportunity .
-* I hold multiple Udemy courses in Kotlin, design patterns and Android development.
-## :hammer: Languajes and Tools:
+* I'm looking for a new job opportunity.
+*I hold multiple Udemy courses in Kotlin, design patterns, and Android development.
+## :hammer: Languages and Tools:
 <p align = "left">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt="java" width="25" height="25">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' alt="kotlin" width="25" height="25">
