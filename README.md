@@ -22,9 +22,9 @@ I'm a student of developing cross-platform applications in Escuela Arte Granada 
    Firebase<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' alt="kotlin" width="15" height="15">
 </p>
 
-background-color: #75474A;
-color: #000000; /* Texto en negro */
-font-family: 'Press Start 2P', monospace;
+:background-color: #75474A;
+:color: #000000;
+:font-family: 'Press Start 2P', monospace;
   
 
 
