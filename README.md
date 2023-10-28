@@ -1,5 +1,6 @@
-<!-- in your header -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Press+Start+2P">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<!-- Encabezado -->
 
 <!-- in your body -->
 ## Hello world! :wave: I'm Jose :hurtrealbad:
@@ -7,7 +8,7 @@ Welcome to my GitHub profile! Here you'll find information about my projects.
 I'm a student of developing cross-platform applications in Escuela Arte Granada who is mainly interested in mobile :iphone: and backend development. 
 * I am learning design patterns, SOLID principles, and good programming practices.
 * I'm looking for a new job opportunity.
-*I hold multiple Udemy courses in Kotlin, design patterns, and Android development.
+* I hold multiple Udemy courses in Kotlin, design patterns, and Android development.
 ## :hammer: Languages and Tools:
 <p align = "left">
   Java<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt="java" width="15" height="15">
@@ -20,6 +21,15 @@ I'm a student of developing cross-platform applications in Escuela Arte Granada 
    Android Studio<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg' alt="kotlin" width="15" height="15">
    Firebase<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' alt="kotlin" width="15" height="15">
 </p>
+
+
+<style>
+  body {
+    background-color: #75474A;
+    color: #000000; /* Texto en negro */
+    font-family: 'Press Start 2P', monospace;
+  }
+</style>
 
 
 
