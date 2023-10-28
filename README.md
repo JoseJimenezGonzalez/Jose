@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Press+Start+2P">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <!-- Encabezado -->
-
 <!-- in your body -->
 ## Hello world! :wave: I'm Jose :hurtrealbad:
 Welcome to my GitHub profile! Here you'll find information about my projects.
