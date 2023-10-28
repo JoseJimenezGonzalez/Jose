@@ -7,7 +7,6 @@
 Welcome to my GitHub profile! Here you'll find information about my projects.
 I'm a student of developing cross-platform applications in Escuela Arte Granada who is mainly interested in mobile :iphone: and backend development. 
 * I am learning design patterns, SOLID principles, and good programming practices.
-* I'm looking for a new job opportunity.
 * I hold multiple Udemy courses in Kotlin, design patterns, and Android development.
 ## :hammer: Languages and Tools:
 <p align = "left">
