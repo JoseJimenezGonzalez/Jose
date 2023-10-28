@@ -3,7 +3,8 @@
 
 <!-- in your body -->
 ## Hello world! :wave: I'm Jose :hurtrealbad:
-![A](https://raw.githubusercontent.com/JoseJimenezGonzalez/assets/floppy_disk.png)
+![A](https://raw.githubusercontent.com/JoseJimenezGonzalez/assets/main/assets/floppy_disk.png)
+
 <style>
   img {
     font-family: 'Press Start 2P', monospace;
