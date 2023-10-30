@@ -1,5 +1,13 @@
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+pre,
+code,
+.blob-code,
+.blob-code-marker,
+.input-monospace,
+.markdown-body code {
+  font-family: MonoLisa;
+}
 
 <!-- in your body -->
 ## Hello world! :wave: I'm Jose :hurtrealbad:
