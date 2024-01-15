@@ -4,7 +4,7 @@
 <!-- in your body -->
 ## Hola mundo! :wave: Soy Jose :hurtrealbad:
 Bienvenido a mi perfil de GitHub! Aquí podrás ver los proyectos que he realizado.
-Soy estudiante de DAM en Escuela Arte Granada, estoy interesado en el desarrrollo móvil :iphone.
+Soy estudiante de DAM en Escuela Arte Granada, estoy interesado en el desarrrollo móvil :iphone:.
 Actualmente me dedico a:
 * Aprender patrones de diseño, principios SOLID y buenas prácticas de programación.
 * He realizado múltiples cursos en Udemy.
