@@ -9,38 +9,38 @@
 
 ## :hammer: Lenguajes de programación:
 <p align="left">
-  - Java<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt="java" width="15" height="15">
-  - Kotlin<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' alt="kotlin" width="15" height="15">
-  - Python<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt="python" width="15" height="15">
-  - PL/SQL<img src='https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png' alt="pl/sql" width="15" height="15">
-  - Android Studio<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' alt="android" width="15" height="15">
+  * Java<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt="java" width="15" height="15">
+  * Kotlin<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' alt="kotlin" width="15" height="15">
+  * Python<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt="python" width="15" height="15">
+  * PL/SQL<img src='https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png' alt="pl/sql" width="15" height="15">
+  * Android Studio<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' alt="android" width="15" height="15">
 </p>
 
 ## Desarrollo de interfaces de usuario:
 <p align="left">
-  - Desarrollo en XML
-  - Desarrollo en Compose
+  * Desarrollo en XML
+  * Desarrollo en Compose
 </p>
 
 ## Bibliotecas con las que he trabajado:
 <p align="left">
-  - Retrofit
-  - Dagger Hilt
-  - LiveData y ViewModel
-  - Firebase <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' alt="firebase" width="15" height="15">
+  * Retrofit
+  * Dagger Hilt
+  * LiveData y ViewModel
+  * Firebase <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' alt="firebase" width="15" height="15">
 </p>
 
 ## Control de versiones y plataformas de colaboración:
 <p align="left">
-  - Git <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' alt="git" width="15" height="15">
-  - GitHub <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt="github" width="15" height="15">
-  - GitLab
+  * Git <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' alt="git" width="15" height="15">
+  * GitHub <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt="github" width="15" height="15">
+  * GitLab
 </p>
 
 ## Patrones de diseño y arquitecturas:
 <p align="left">
-  - MVC
-  - MVVM
+  * MVC
+  * MVVM
 </p>
 
   
