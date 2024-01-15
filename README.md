@@ -7,12 +7,14 @@
 - Aprender patrones de diseño, principios SOLID y buenas prácticas de programación.
 - Realizar cursos en Udemy.
 
+## Framework:
+- Android Studio <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' alt="android" width="15" height="15">
+
 ## :hammer: Lenguajes de programación:
 - Java <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt="java" width="15" height="15">
 - Kotlin <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' alt="kotlin" width="15" height="15">
 - Python <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt="python" width="15" height="15">
 - PL/SQL <img src='https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png' alt="pl/sql" width="15" height="15">
-- Android Studio <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' alt="android" width="15" height="15">
 
 ## Desarrollo de interfaces de usuario:
 - Desarrollo en XML
