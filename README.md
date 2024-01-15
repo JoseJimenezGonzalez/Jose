@@ -29,7 +29,7 @@
 ## Control de versiones y plataformas de colaboración:
 - Git <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' alt="git" width="15" height="15">
 - GitHub <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt="github" width="15" height="15">
-- GitLab
+- GitLab <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg' alt="github" width="15" height="15">
 
 ## Patrones de diseño y arquitecturas:
 - MVC
