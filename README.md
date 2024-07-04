@@ -8,14 +8,14 @@
 - Realizar cursos en Udemy.
 
 ## Frameworks:
-- Spring <img src='https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg' alt="spring" width="15" height="15">
-- Angular <img src='https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg' alt="pl/sql" width="15" height="15">
+- Spring <img src='https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg' alt="spring" width="20" height="20">
+- Angular <img src='https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg' alt="pl/sql" width="20" height="20">
 
 ## :hammer: Lenguajes de programación:
-- Java <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt="java" width="15" height="15">
-- Kotlin <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' alt="kotlin" width="15" height="15">
-- TypeScript <img src='https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg' alt="typescript" width="15" height="15">
-- PL/SQL <img src='https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png' alt="pl/sql" width="15" height="15">
+- Java <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt="java" width="20" height="20">
+- Kotlin <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' alt="kotlin" width="20" height="20">
+- TypeScript <img src='https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg' alt="typescript" width="20" height="20">
+- PL/SQL <img src='https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png' alt="pl/sql" width="20" height="20">
 
 ## He realizado varios proyectos en los que he aplicado mi conocimiento en:
 - Spring Boot
@@ -27,8 +27,8 @@
 - Angular
 
 ## Control de versiones y plataformas de colaboración:
-- Git <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' alt="git" width="15" height="15">
-- GitHub <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt="github" width="15" height="15">
+- Git <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' alt="git" width="20" height="20">
+- GitHub <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt="github" width="20" height="20">
 
 ## Patrones de diseño y arquitecturas:
 - MVC
