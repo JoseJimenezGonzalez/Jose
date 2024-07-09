@@ -3,7 +3,7 @@
 
 <!-- En tu cuerpo -->
 ## ¡Hola mundo! :wave: Soy Jose :hurtrealbad:
-¡Bienvenido a mi perfil de GitHub! Aquí podrás ver los proyectos que he realizado. Soy desarrollador backend con experiencia en la implementación de servicios RESTful, el manejo de bases de datos SQL y NoSQL, y el despliegue en la nube.Actualmente me dedico a:
+¡Bienvenido a mi perfil de GitHub! Aquí podrás ver los proyectos que he realizado. Soy desarrollador backend con experiencia en la implementación de servicios RESTful, el manejo de bases de datos SQL y NoSQL, y el despliegue en la nube. Actualmente me dedico a:
 - Aprender patrones de diseño, principios SOLID y buenas prácticas de programación.
 - Realizar cursos en Udemy.
 
